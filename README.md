@@ -2,11 +2,12 @@
 
 # Juan Felipe Castillo Gómez
 
-**Full-Stack Software Engineer · Data & AI · Web3 / Celo**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FC6C85&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Engineer;Data+%26+AI;Web3+%2F+Celo" alt="Typing SVG" />
 
 Systems Engineer from Cali, Colombia — I build full-stack products end to end: frontend, backend, data, and on-chain contracts.
 
 [![GitHub](https://img.shields.io/badge/GitHub-JuanFCast-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JuanFCast)
+![Location](https://img.shields.io/badge/Cali%2C_Colombia-FC6C85?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -28,34 +29,91 @@ Daily visual-agility game on Celo. Two cards always share exactly one symbol —
 
 **[avispate.fun](https://avispate.fun)** · [source](https://github.com/JuanFCast/avispate-visual)
 
-`Next.js 15` `React 19` `TypeScript` `wagmi / viem` `Privy` `RainbowKit` `Supabase (Postgres)` `Solidity + Hardhat` `Celo mainnet`
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![wagmi](https://img.shields.io/badge/wagmi-1C1B1F?style=flat-square)
+![viem](https://img.shields.io/badge/viem-1C1B1F?style=flat-square)
+![Privy](https://img.shields.io/badge/Privy-6E56CF?style=flat-square)
+![RainbowKit](https://img.shields.io/badge/RainbowKit-7C3AED?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+![Celo](https://img.shields.io/badge/Celo_mainnet-FCFF52?style=flat-square&logo=celo&logoColor=black)
 
 ### ⌨️ TypeRush
 Daily typing competition built for MiniPay. Pay a small stablecoin entry, race a 45-second prompt, get scored on WPM and accuracy, and the top typer takes the day's pool. Entry, pool, and payout run through a multi-currency Solidity contract on Celo Sepolia.
 
 **[typerush.fun](https://typerush.fun)** · [source](https://github.com/JuanFCast/TypeRush)
 
-`Next.js 16` `React 19` `TypeScript` `Tailwind CSS 4` `wagmi / viem / ethers` `Privy` `RainbowKit` `Supabase (Postgres)` `Solidity — Celo Sepolia`
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![wagmi](https://img.shields.io/badge/wagmi-1C1B1F?style=flat-square)
+![viem](https://img.shields.io/badge/viem-1C1B1F?style=flat-square)
+![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=flat-square&logo=ethers&logoColor=white)
+![Privy](https://img.shields.io/badge/Privy-6E56CF?style=flat-square)
+![RainbowKit](https://img.shields.io/badge/RainbowKit-7C3AED?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Celo Sepolia](https://img.shields.io/badge/Celo_Sepolia-FCFF52?style=flat-square&logo=celo&logoColor=black)
 
 ### 🎓 BIntuitive
 Touch-first educational game for young learners, iPad-first and responsive down to phones. Five bilingual mini-games with adaptive difficulty and spoken instructions (Web Speech API). Reuses the core mechanics from Avíspate and TypeRush, stripped down to a privacy-friendly, backend-free MVP — no wallets, accounts, payments, or blockchain.
 
 **[bintuitive.aumcrsp.com](https://bintuitive.aumcrsp.com)** · [source](https://github.com/JuanFCast/BIntuitive)
 
-`Next.js 15` `React 19` `TypeScript` `Tailwind CSS 4` `Web Speech / Audio API`
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Web Speech API](https://img.shields.io/badge/Web_Speech_%2F_Audio_API-4B5563?style=flat-square)
 
 ---
 
 ## Core Stack
 
-| | |
-|---|---|
-| **Languages** | TypeScript, JavaScript, Python, SQL, Solidity |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend & Data** | Node.js, PostgreSQL, Supabase, Pandas, Power BI |
-| **Web3 / Celo** | Solidity, Celo, wagmi, viem, ethers, Privy, RainbowKit |
-| **Tooling** | Git, GitHub, Vercel |
-| **Other** | APIs & integrations, AI-assisted development, automation & scripting |
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Web3 / Celo**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Celo](https://img.shields.io/badge/Celo-FCFF52?style=flat-square&logo=celo&logoColor=black)
+![wagmi](https://img.shields.io/badge/wagmi-1C1B1F?style=flat-square)
+![viem](https://img.shields.io/badge/viem-1C1B1F?style=flat-square)
+![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=flat-square&logo=ethers&logoColor=white)
+![Privy](https://img.shields.io/badge/Privy-6E56CF?style=flat-square)
+![RainbowKit](https://img.shields.io/badge/RainbowKit-7C3AED?style=flat-square)
+
+**Tooling & Other**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs_%26_Integrations-2C3E50?style=flat-square)
+![AI-assisted dev](https://img.shields.io/badge/AI--assisted_Development-10A37F?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation_%26_Scripting-4B5563?style=flat-square)
 
 ---
 
@@ -71,9 +129,21 @@ Touch-first educational game for young learners, iPad-first and responsive down 
 ## GitHub Activity
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JuanFCast&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFCast&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JuanFCast&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFCast&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most used languages" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JuanFCast&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanFCast/JuanFCast/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanFCast/JuanFCast/output/snake.svg" />
+  <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/JuanFCast/JuanFCast/output/snake.svg" />
+</picture>
 
 ---
 

@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FC6C85&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Engineer;Data+%26+AI;Web3+%2F+Celo" alt="Typing SVG" />
 
-🇨🇴 From Colombia to the world — I build full-stack products end to end: frontend, backend, data, and on-chain contracts.
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e8-1f1f4.svg" width="20" alt="Colombia flag" valign="middle" /> From Colombia to the world — I build full-stack products end to end: frontend, backend, data, and on-chain contracts.
 
 [![GitHub](https://img.shields.io/badge/GitHub-JuanFCast-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JuanFCast)
 

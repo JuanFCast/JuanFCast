@@ -128,12 +128,12 @@ Touch-first educational game for young learners, iPad-first and responsive down 
 ## GitHub Activity
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-tau-eight-36.vercel.app/api?username=JuanFCast&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165em" src="https://github-readme-stats-tau-eight-36.vercel.app/api/top-langs/?username=JuanFCast&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most used languages" />
+  <img height="165em" loading="lazy" src="https://github-readme-stats-tau-eight-36.vercel.app/api?username=JuanFCast&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165em" loading="lazy" src="https://github-readme-stats-tau-eight-36.vercel.app/api/top-langs/?username=JuanFCast&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JuanFCast&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img loading="lazy" src="https://streak-stats.demolab.com?user=JuanFCast&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 ### 🐍 Contribution snake
@@ -141,7 +141,7 @@ Touch-first educational game for young learners, iPad-first and responsive down 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanFCast/JuanFCast/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanFCast/JuanFCast/output/snake.svg" />
-  <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/JuanFCast/JuanFCast/output/snake.svg" />
+  <img alt="Snake eating the contribution graph" loading="lazy" src="https://raw.githubusercontent.com/JuanFCast/JuanFCast/output/snake.svg" />
 </picture>
 
 ---

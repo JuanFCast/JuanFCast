@@ -129,8 +129,8 @@ Touch-first educational game for young learners, iPad-first and responsive down 
 ## GitHub Activity
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JuanFCast&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFCast&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most used languages" />
+  <img height="165em" src="https://github-readme-stats-tau-eight-36.vercel.app/api?username=JuanFCast&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165em" src="https://github-readme-stats-tau-eight-36.vercel.app/api/top-langs/?username=JuanFCast&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most used languages" />
 </p>
 
 <p align="center">
